@@ -12,7 +12,10 @@ iii> List and analyze content based on release years,countries and durations.
 iv>Explore and categorize content based on specific criteria and keywords.
 
 ## Dataset
-The data for this project is sourced from the kaggle dataset
+The data for this project is sourced from the kaggle dataset.
+
+## Schema
+![Schema]
 
 
 
