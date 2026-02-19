@@ -15,7 +15,7 @@ iv>Explore and categorize content based on specific criteria and keywords.
 The data for this project is sourced from the kaggle dataset.
 
 ## Schema
-![Schema]
+![Schema](https://github.com/uttamgiri1316/Netflix_sql_Project/blob/main/Schemas.sql)
 
 
 
